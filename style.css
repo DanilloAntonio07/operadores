@@ -1,0 +1,215 @@
+* {
+    outline: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.projetin {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.section1 {
+    display: flex;
+    justify-content: center;
+}
+
+.somadiv {
+    display: flex;
+    flex-direction: column;
+}
+
+#primeiroValor {
+    width: 300px;
+    height: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    border: solid;
+    border-color: red;
+    border-radius: 30px;
+    border-width: 3px;
+}
+
+#segundoValor {
+    width: 300px;
+    height: 30px;  
+    margin-bottom: 20px;
+    text-align: center;
+    border: solid;
+    border-color: red;
+    border-radius: 30px;
+    border-width: 3px;
+}
+
+#resultado {
+    width: 300px;
+    height: 30px;   
+    margin-bottom: 20px;
+    text-align: center;
+    border: solid;
+    border-color: red;
+    border-radius: 30px;
+    border-width: 3px;
+}
+
+.botao {
+    width: 305px;
+    height: 30px;   
+    margin-bottom: 20px;
+    border: solid;
+    border-color: red;
+    border-radius: 30px;
+    border-width: 3px;
+}
+
+.botao:hover {
+    border-color: rgb(129, 0, 0);
+}
+
+.section2 {
+    display: flex;
+    justify-content: center;
+}
+
+.somadiv2 {
+    display: flex;
+    flex-direction: column;
+}
+
+#primeiroValor2 {
+    width: 300px;
+    height: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    border: solid;
+    border-color: red;
+    border-radius: 30px;
+    border-width: 3px;
+}
+
+#segundoValor2 {
+    width: 300px;
+    height: 30px;  
+    margin-bottom: 20px;
+    text-align: center;
+    border: solid;
+    border-color: red;
+    border-radius: 30px;
+    border-width: 3px;
+}
+
+#terceiroValor2 {
+    width: 300px;
+    height: 30px;  
+    margin-bottom: 20px;
+    text-align: center;
+    border: solid;
+    border-color: red;
+    border-radius: 30px;
+    border-width: 3px;
+}
+
+#resultado2 {
+    width: 300px;
+    height: 30px;   
+    margin-bottom: 20px;
+    text-align: center;
+    border: solid;
+    border-color: red;
+    border-radius: 30px;
+    border-width: 3px;
+}
+
+.botao2 {
+    width: 305px;
+    height: 30px;   
+    margin-bottom: 20px;
+    border: solid;
+    border-color: red;
+    border-radius: 30px;
+    border-width: 3px;
+}
+
+.botao2:hover {
+    border-color: rgb(129, 0, 0);
+}
+
+.section3 {
+    display: flex;
+    justify-content: center;
+}
+
+.somadiv3 {
+    display: flex;
+    flex-direction: column;
+}
+
+#primeiroValor3 {
+    width: 300px;
+    height: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    border: solid;
+    border-color: red;
+    border-radius: 30px;
+    border-width: 3px;
+}
+
+#segundoValor3 {
+    width: 300px;
+    height: 30px;  
+    margin-bottom: 20px;
+    text-align: center;
+    border: solid;
+    border-color: red;
+    border-radius: 30px;
+    border-width: 3px;
+}
+
+#terceiroValor3 {
+    width: 300px;
+    height: 30px;  
+    margin-bottom: 20px;
+    text-align: center;
+    border: solid;
+    border-color: red;
+    border-radius: 30px;
+    border-width: 3px;
+}
+
+#resultado3 {
+    width: 300px;
+    height: 30px;   
+    margin-bottom: 20px;
+    text-align: center;
+    border: solid;
+    border-color: red;
+    border-radius: 30px;
+    border-width: 3px;
+}
+
+.botao3 {
+    width: 305px;
+    height: 30px;   
+    margin-bottom: 20px;
+    border: solid;
+    border-color: red;
+    border-radius: 30px;
+    border-width: 3px;
+}
+
+.botao3:hover {
+    border-color: rgb(129, 0, 0);
+}
+
+.conta1 {
+    margin-right: 30px;
+}
